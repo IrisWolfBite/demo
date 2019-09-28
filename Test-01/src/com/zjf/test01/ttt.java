@@ -12,6 +12,7 @@ public class ttt {
     public static void main(String[] args) {
         Object o1 = TestMain04.DoubleCheckSingleton();
         Object o2 = TestMain04.DoubleCheckSingleton();
-        System.out.println(o1 == o2);
+        Object o3 = TestMain04.DoubleCheckSingleton();
+        System.out.println(o1 == o3);
     }
 }
