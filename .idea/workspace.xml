@@ -6,36 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="367c44e7-030f-49c8-9b78-ec3e29d8d128" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/springboot-demo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo/src/main/java/com/example/SpringbootDemoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo/src/main/java/com/example/send/controller/WebController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo/src/main/java/com/example/send/service/SenderService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo/src/main/java/com/example/send/service/SenderServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo/src/test/java/com/example/SpringbootDemoApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo2/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo2/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo2/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo2/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo2/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo2/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo2/src/main/java/com/example/SpringbootDemo2Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo2/src/main/java/com/example/recreive/configuration/ActivityMQConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo2/src/main/java/com/example/recreive/configuration/MyListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo2/src/main/java/com/example/recreive/service/ReceiverService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo2/src/main/java/com/example/recreive/service/ReceiverServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo2/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo2/src/test/java/com/example/SpringbootDemo2ApplicationTests.java" beforeDir="false" />
-    </list>
+    <list default="true" id="367c44e7-030f-49c8-9b78-ec3e29d8d128" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/springboot-mybatis/target/" />
     <ignored path="$PROJECT_DIR$/cglib-Test/target/" />
     <ignored path="$PROJECT_DIR$/Test-web-02/target/" />
@@ -74,7 +45,7 @@
     <favorites_list name="Test-project" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -221,9 +192,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -684,6 +655,7 @@
       <workItem from="1573782402644" duration="30415000" />
       <workItem from="1574326726326" duration="23506000" />
       <workItem from="1574475629410" duration="12683000" />
+      <workItem from="1574563798334" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="第一次使用，请多指教~">
       <created>1569676186451</created>
@@ -773,7 +745,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="400481000" />
+    <option name="totallyTimeSpent" value="400511000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -787,7 +759,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4639376" visible="true" weight="0.2777778" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4639376" visible="true" weight="0.2825397" />
       <window_info id="Structure" order="1" sideWeight="0.53606236" side_tool="true" weight="0.2777778" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -809,7 +781,7 @@
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="12" weight="0.3289689" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49924356" weight="0.28153846" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="14" sideWeight="0.49848714" visible="true" weight="0.4523077" />
+      <window_info anchor="bottom" id="Terminal" order="14" sideWeight="0.49848714" visible="true" weight="0.4523077" />
       <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5015129" side_tool="true" weight="0.31846154" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
@@ -881,16 +853,7 @@
     <entry file="file://$PROJECT_DIR$/springboot-activitymq-sender/src/main/java/com/zjf/sender/service/SendServiceImpl.java" />
     <entry file="file://$PROJECT_DIR$/springboot-activitymq-sender/src/main/java/com/zjf/sender/SpringbootActivitymqSenderApplication.java" />
     <entry file="file://$PROJECT_DIR$/springboot-activitymq-sender/src/main/resources/application.properties" />
-    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/src/test/java/com/example/SpringbootDemoApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/src/test/java/com/example/SpringbootDemoApplicationTests.java" />
     <entry file="file://$PROJECT_DIR$/springboot-demo/src/main/java/com/example/send/controller.java" />
     <entry file="file://$PROJECT_DIR$/springboot-demo/src/main/resources/static/index.jsp" />
     <entry file="file://$PROJECT_DIR$/springboot-activitymq-sender/src/main/java/com/zjf/sender/model/Student.java" />
@@ -906,84 +869,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/src/main/resources/application.properties" />
     <entry file="file://$PROJECT_DIR$/springboot-demo2/src/main/java/com/example/recreive/controller/WebController.java" />
-    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-receiver-demo/src/main/java/com/example/recreive/service/ReceiverService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-receiver-demo/src/main/java/com/example/recreive/service/ReceiverService.java" />
     <entry file="file://$PROJECT_DIR$/springboot-demo2/src/main/java/com/example/recreive/service/controller.java" />
-    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-receiver-demo/src/main/java/com/example/recreive/configuration/MyListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-receiver-demo/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/src/main/java/com/example/SpringbootDemoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-receiver-demo/src/main/java/com/example/SpringbootDemo2Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test-01/src/com/zjf/test/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test-01/src/com/zjf/test/Singleton_01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test-01/src/com/zjf/model/Emp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-receiver-demo/src/main/java/com/example/recreive/configuration/MyListener.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-receiver-demo/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/src/main/java/com/example/SpringbootDemoApplication.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-receiver-demo/src/main/java/com/example/SpringbootDemo2Application.java" />
+    <entry file="file://$PROJECT_DIR$/Test-01/src/com/zjf/test/TestMain.java" />
+    <entry file="file://$PROJECT_DIR$/Test-01/src/com/zjf/test/Singleton_01.java" />
+    <entry file="file://$PROJECT_DIR$/Test-01/src/com/zjf/model/Emp.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/ref/Reference.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2188">
@@ -991,79 +887,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test-01/src/com/zjf/test03/TestStringAndStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-44">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding>
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test-01/src/com/zjf/test/TestMain14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test-web-02/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test-01/src/com/zjf/exception/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test-01/src/com/zjf/exception/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding>
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#610#611#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-            <element signature="e#761#762#0" expanded="true" />
-            <element signature="e#790#791#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test-01/src/com/zjf/exception/BaseException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Test-01/src/com/zjf/test03/TestStringAndStringBuilder.java" />
+    <entry file="file://$PROJECT_DIR$/Test-01/src/com/zjf/test/TestMain14.java" />
+    <entry file="file://$PROJECT_DIR$/Test-web-02/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/Test-01/src/com/zjf/exception/Test.java" />
+    <entry file="file://$PROJECT_DIR$/Test-01/src/com/zjf/exception/Person.java" />
+    <entry file="file://$PROJECT_DIR$/Test-01/src/com/zjf/exception/BaseException.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/logging/Logger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4">
@@ -1071,87 +900,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-receiver-demo/src/main/java/com/example/recreive/configuration/ActivityMQConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-receiver-demo/src/main/java/com/example/recreive/service/ReceiverServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#1092#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/.mvn/wrapper/MavenWrapperDownloader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-mybatis/.mvn/wrapper/MavenWrapperDownloader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1320">
-          <folding>
-            <element signature="e#0#4629#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/.mvn/wrapper/maven-wrapper.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="18" lean-forward="true" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/mvnw.cmd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-receiver-demo/src/main/java/com/example/recreive/configuration/ActivityMQConfiguration.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-receiver-demo/src/main/java/com/example/recreive/service/ReceiverServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/readme.txt" />
+    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/.mvn/wrapper/MavenWrapperDownloader.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-mybatis/.mvn/wrapper/MavenWrapperDownloader.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/.mvn/wrapper/maven-wrapper.properties" />
+    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/mvnw.cmd" />
     <entry file="file://$PROJECT_DIR$/关于activityMQ使用demo的sender.patch" />
-    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="78" column="3" lean-forward="true" selection-start-line="78" selection-start-column="3" selection-end-line="78" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-mybatis/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="57" selection-start-line="57" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/springboot-mybatis/pom.xml" />
     <entry file="uml://JAVA/java.io.InputStream">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -1164,7 +923,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="56.5" y="110.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="57.0" y="111.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -1207,58 +966,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javaSE-Test/src/main/java/com/zjf/IOTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-968">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaSE-Test/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activityMQ-test/src/main/java/com/zjf/activityMQ/send/Sender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/src/main/java/com/example/send/service/SenderService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/src/main/java/com/example/send/service/SenderServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="27" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/src/main/java/com/example/send/controller/WebController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/javaSE-Test/src/main/java/com/zjf/IOTest.java" />
+    <entry file="file://$PROJECT_DIR$/javaSE-Test/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/activityMQ-test/src/main/java/com/zjf/activityMQ/send/Sender.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/src/main/java/com/example/send/service/SenderService.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/src/main/java/com/example/send/service/SenderServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/src/main/java/com/example/send/controller/WebController.java" />
   </component>
   <component name="masterDetails">
     <states>
