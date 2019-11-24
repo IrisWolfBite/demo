@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Test-web-02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activityMQ-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activityMQ-test02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cglib-Test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaSE-Test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quickPay02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quickPay02/src/main/java/com/zjf/demo/20190801.3300000002925831.pfx" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/quickPay02/src/main/java/com/zjf/demo/Pkipair.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spring-ThreadPoolExector" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-activityMQ-receiver-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mybatis" charset="UTF-8" />
+    <file url="file://F:/迅雷下载/人民币网关/DEMO/JAVA/FI/src/Util/Pkipair.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

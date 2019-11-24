@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:/迅雷下载/人民币网关/DEMO/JAVA/FI/FI.iml" filepath="F:/迅雷下载/人民币网关/DEMO/JAVA/FI/FI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test-01/Test-01.iml" filepath="$PROJECT_DIR$/Test-01/Test-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test-web-02/Test-web-02.iml" filepath="$PROJECT_DIR$/Test-web-02/Test-web-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activityMQ-test/activityMQ-test.iml" filepath="$PROJECT_DIR$/activityMQ-test/activityMQ-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activityMQ-test02/activityMQ-test02.iml" filepath="$PROJECT_DIR$/activityMQ-test02/activityMQ-test02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cglib-Test/cglib-Test.iml" filepath="$PROJECT_DIR$/cglib-Test/cglib-Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSE-Test/javaSE-Test.iml" filepath="$PROJECT_DIR$/javaSE-Test/javaSE-Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickPay02/quickPay02.iml" filepath="$PROJECT_DIR$/quickPay02/quickPay02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-ThreadPoolExector/spring-ThreadPoolExector.iml" filepath="$PROJECT_DIR$/spring-ThreadPoolExector/spring-ThreadPoolExector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-activityMQ-receiver-demo/springboot-activityMQ-receiver-demo.iml" filepath="$PROJECT_DIR$/springboot-activityMQ-receiver-demo/springboot-activityMQ-receiver-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-activityMQ-sender-demo/springboot-activityMQ-sender-demo.iml" filepath="$PROJECT_DIR$/springboot-activityMQ-sender-demo/springboot-activityMQ-sender-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis/springboot-mybatis.iml" filepath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis.iml" />
+    </modules>
+  </component>
+</project>

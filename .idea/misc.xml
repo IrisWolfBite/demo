@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springboot-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/cglib-Test/pom.xml" />
+        <option value="$PROJECT_DIR$/Test-web-02/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/quickPay01/pom.xml" />
+        <option value="$PROJECT_DIR$/quickPay02/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-ThreadPoolExector/pom.xml" />
+        <option value="$PROJECT_DIR$/activityMQ-test/pom.xml" />
+        <option value="$PROJECT_DIR$/activityMQ-test02/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-activitymq-sender/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-activitymq-receiver/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-demo2/pom.xml" />
+        <option value="$PROJECT_DIR$/javaSE-Test/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
